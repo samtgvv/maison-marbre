@@ -20,6 +20,8 @@ input {
     font-size: 16px;
     font-weight: 300;
     border-radius: 0;
+    outline: none;
+    background: white;
 }
 
 .input-all {
